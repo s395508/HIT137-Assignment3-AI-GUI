@@ -4,10 +4,10 @@
 Tkinter-based GUI application integrating two Hugging Face AI models with Object-Oriented Programming concepts.
 
 ## 👥 Team Members
-- **s395508** - [Your Name Here]
-- **s395252** - Ankita (GitHub: Ankit692004)
-- **s395343** - Plamveerbrar (GitHub: Palambrar)  
-- **s395499** - Sehaj (GitHub: s395499)
+- **s395508** - RUDRANSH RUDRANSH
+- **s395252** - ANKIT ANKIT (GitHub: Ankit692004)
+- **s395343** - PALAMVIR SINGH BRAR BRAR (GitHub: Palambrar)  
+- **s395499** - SEHAJDEEP KAUR KAUR (GitHub: s395499)
 
 ## 🤖 AI Models Used
 1. **Sentiment Analysis** - Analyzes text emotions (positive/negative)
