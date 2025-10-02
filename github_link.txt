@@ -1,0 +1,17 @@
+Repository Link:
+https://github.com/s395508/HIT137-Assignment3-AI-GUI
+Team Members:
+
+s395508 - Rudransh Rudransh - s395508@students.cdu.edu.au
+s395252 - Ankita Ankita - s395252@students.cdu.edu.au (GitHub: Ankit692004)
+s395343 - PALAMVIR SINGH BRAR BRAR - s395343@students.cdu.edu.au (GitHub: Palambrar)
+s395499 - SEHAJDEEP KAUR KAUR - s395499@students.cdu.edu.au (GitHub: s395499)
+
+Project: Tkinter AI GUI with OOP Concepts
+Course: HIT137
+Semester: S1 2025
+
+Models Used:
+Model 1: Sentiment Analysis (Text Classification)
+Model 2: Image Classification (Computer Vision)
+
